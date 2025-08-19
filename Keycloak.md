@@ -1,4 +1,4 @@
-# 📘 Keycloak – Detailed Documentation
+# Keycloak – Detailed Documentation
 
 ## 1. Introduction
 
